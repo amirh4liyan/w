@@ -1,0 +1,17 @@
+01 Introduction
+
+	01-01 Processor
+		32-bit Processor
+			+Registers 32 bits
+			+Arithmetic & logical operations 32 bits
+	
+		Load/Store ISA
+			+Only load/store instructions can access memory
+			-Arithmetic/logical instructions no access to memory
+
+		32-bit Instruction Length
+
+	
+	01-02 Memory Organization
+
+
