@@ -45,6 +45,9 @@ int main()
         M.push_back(min);
     }
 
+    cout << iterate() << endl;
+
+    /*
     // get & process query
     while(q--) {
         int i, d;
@@ -53,6 +56,7 @@ int main()
         update(i);
         cout << iterate() << endl;
     }
+    */
 
     return 0;
 }
